@@ -470,20 +470,7 @@
 </head>
 <body>
 
-    <a href="q2.html" style="
-  position:fixed;
-  top:10px;
-  right:10px;
-  z-index:9999;
-  background:#8b4d3c;
-  color:#fff;
-  padding:6px 10px;
-  border-radius:999px;
-  font-size:12px;
-  text-decoration:none;">
-        ↗
-</a>
-
+   
     <!-- PASSWORD OVERLAY -->
     <div id="protect-overlay">
         <div id="protect-box">
@@ -533,12 +520,12 @@ No rules, just moments you want to keep.
                         <button class="month-pill" onclick="goToPage(12)">April</button>
                         <button class="month-pill" onclick="goToPage(15)">May</button>
                         <button class="month-pill" onclick="goToPage(18)">June</button>
-                        <button class="month-pill" onclick="goToPage(21)">July</button>
-                        <button class="month-pill" onclick="goToPage(24)">August</button>
-                        <button class="month-pill" onclick="goToPage(27)">September</button>
-                        <button class="month-pill" onclick="goToPage(30)">October</button>
-                        <button class="month-pill" onclick="goToPage(33)">November</button>
-                        <button class="month-pill" onclick="goToPage(36)">December</button>
+                        <button class="month-pill" onclick="window.location.href='q2.html#july'">July</button>
+<button class="month-pill" onclick="window.location.href='q2.html#august'">August</button>
+<button class="month-pill" onclick="window.location.href='q2.html#september'">September</button>
+<button class="month-pill" onclick="window.location.href='q2.html#october'">October</button>
+<button class="month-pill" onclick="window.location.href='q2.html#november'">November</button>
+<button class="month-pill" onclick="window.location.href='q2.html#december'">December</button>
                     </div>
                     <div class="footer-note">
                         Page 2 · Months index
@@ -3233,11 +3220,28 @@ No rules, just moments you want to keep.
             showPage(n);
         }
 
-        nextBtn.addEventListener('click', goNext);
-        prevBtn.addEventListener('click', goPrev);
-        indexBtn.addEventListener('click', () => goToPage(2)); // صفحة الفهرس
+       nextBtn.addEventListener('click', goNext);
+prevBtn.addEventListener('click', goPrev);
+indexBtn.addEventListener('click', () => goToPage(2)); // صفحة الفهرس
 
-        updateButtons();
+// التعامل مع الهاش القادم من q2
+const hash = window.location.hash;
+
+if (hash === '#january') {
+  goToPage(3);   // January · Page 1 في index.html
+} else if (hash === '#february') {
+  goToPage(6);
+} else if (hash === '#march') {
+  goToPage(9);
+} else if (hash === '#april') {
+  goToPage(12);
+} else if (hash === '#may') {
+  goToPage(15);
+} else if (hash === '#june') {
+  goToPage(18);
+}
+
+updateButtons();
 
         // IMAGE PREVIEW FOR ALL PHOTO BOXES
         const photoInputs = document.querySelectorAll('.photo-input');
