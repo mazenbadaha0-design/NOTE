@@ -3281,21 +3281,7 @@ No rules, just moments you want to keep.
   const app = initializeApp(firebaseConfig);
   const db  = getFirestore(app);
 
-   // دالة عامة لتحميل صفحة (أي Grid صور)
-  async function loadPage(pageId, gridSelector) {
-    const ref  = doc(db, 'pages', pageId);
-    const snap = await getDoc(ref);
-    if (!snap.exists()) return;
-
-    const data = snap.data();
-    const grid = document.querySelector(gridSelector);
-    if (!grid) return;
-
-    const boxes = grid.querySelectorAll('.photo-box');
-    boxes.forEach((box, index) => {
-      const i = index + 1;
-
-     // دالة عامة لتحميل صفحة (أي Grid صور)
+  // دالة عامة لتحميل صفحة (أي Grid صور)
   async function loadPage(pageId, gridSelector) {
     const ref  = doc(db, 'pages', pageId);
     const snap = await getDoc(ref);
@@ -3334,7 +3320,6 @@ No rules, just moments you want to keep.
       }
     });
   }  // ← إغلاق loadPage
-
 
   // دالة عامة لحفظ صفحة
   async function savePage(pageId, gridSelector, label) {
