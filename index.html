@@ -560,19 +560,18 @@ No rules, just moments you want to keep.
             <!-- 9 boxes -->
             <!-- box 1 -->
             <div class="photo-box">
-                <div class="photo-area">
-                    <span>Photo 1</span>
-                    <img alt="Preview J1-1">
-                    <label class="photo-upload-label">
-                        Upload
-                        <input class="photo-input" type="file" accept="image/*">
-                    </label>
-                </div>
-                <div class="photo-meta">
-                    <input type="text" placeholder="Date">
-                    <textarea placeholder="A few words..."></textarea>
-                </div>
-            </div>
+  <div class="photo-area">
+    <span>Photo 1</span>
+    <img alt="Preview J1-1">
+  </div>
+  <div class="photo-meta">
+    <input type="text" placeholder="Date">
+    <!-- حقل جديد لرابط الصورة -->
+    <input type="text" class="photo-url-input" placeholder="Image URL (Google Drive)">
+    <textarea placeholder="A few words..."></textarea>
+  </div>
+</div>
+
 
             <!-- box 2 -->
             <div class="photo-box">
@@ -3781,33 +3780,49 @@ No rules, just moments you want to keep.
     const grid = document.querySelector(gridSelector);
     if (!grid) return;
 
-    const boxes = grid.querySelectorAll('.photo-box');
-    boxes.forEach((box, index) => {
-      const i         = index + 1;
-      const dateInput = box.querySelector('input[type="text"]');
-      const textArea  = box.querySelector('textarea');
+   const boxes = grid.querySelectorAll('.photo-box');
+boxes.forEach((box, index) => {
+  const i = index + 1;
 
-      if (dateInput) dateInput.value = data[`photo${i}Date`] || '';
-      if (textArea)  textArea.value  = data[`photo${i}Text`]  || '';
-    });
+  // أول input عادي للتاريخ (مش تبع URL)
+  const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
+  const urlInput  = box.querySelector('.photo-url-input');
+  const textArea  = box.querySelector('textarea');
+  const img       = box.querySelector('img');
+
+  if (dateInput) dateInput.value = data[`photo${i}Date`] || '';
+  if (textArea)  textArea.value  = data[`photo${i}Text`]  || '';
+
+  const url = data[`photo${i}Url`] || '';
+  if (urlInput) urlInput.value = url;
+
+  if (img && url) {
+    img.src = url;
+    img.style.display = 'block';
   }
+});
+
 
   // دالة عامة لحفظ صفحة
   async function savePage(pageId, gridSelector, label) {
     const grid = document.querySelector(gridSelector);
     if (!grid) return;
 
-    const boxes   = grid.querySelectorAll('.photo-box');
-    const payload = {};
+   const boxes   = grid.querySelectorAll('.photo-box');
+const payload = {};
 
-    boxes.forEach((box, index) => {
-      const i         = index + 1;
-      const dateInput = box.querySelector('input[type="text"]');
-      const textArea  = box.querySelector('textarea');
+boxes.forEach((box, index) => {
+  const i         = index + 1;
 
-      payload[`photo${i}Date`] = dateInput?.value || '';
-      payload[`photo${i}Text`] = textArea?.value  || '';
-    });
+  const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
+  const urlInput  = box.querySelector('.photo-url-input');
+  const textArea  = box.querySelector('textarea');
+
+  payload[`photo${i}Date`] = dateInput?.value || '';
+  payload[`photo${i}Text`] = textArea?.value  || '';
+  payload[`photo${i}Url`]  = urlInput?.value  || '';
+});
+
 
     await setDoc(doc(db, 'pages', pageId), payload, { merge: true });
     alert(`تم حفظ ${label} ✅`);
