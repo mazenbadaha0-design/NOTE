@@ -3295,11 +3295,25 @@ No rules, just moments you want to keep.
     boxes.forEach((box, index) => {
       const i = index + 1;
 
-      // أول input عادي للتاريخ (مش تبع URL)
+     // دالة عامة لتحميل صفحة (أي Grid صور)
+  async function loadPage(pageId, gridSelector) {
+    const ref  = doc(db, 'pages', pageId);
+    const snap = await getDoc(ref);
+    if (!snap.exists()) return;
+
+    const data = snap.data();
+    const grid = document.querySelector(gridSelector);
+    if (!grid) return;
+
+    const boxes = grid.querySelectorAll('.photo-box');
+    boxes.forEach((box, index) => {
+      const i = index + 1;
+
       const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
       const urlInput  = box.querySelector('.photo-url-input');
       const textArea  = box.querySelector('textarea');
       const img       = box.querySelector('img');
+      const span      = box.querySelector('.photo-area span');
 
       if (dateInput) dateInput.value = data[`photo${i}Date`] || '';
       if (textArea)  textArea.value  = data[`photo${i}Text`]  || '';
@@ -3307,12 +3321,20 @@ No rules, just moments you want to keep.
       const url = data[`photo${i}Url`] || '';
       if (urlInput) urlInput.value = url;
 
-      if (img && url) {
-        img.src = url;
-        img.style.display = 'block';
+      if (img) {
+        if (url) {
+          img.src = url;
+          img.style.display = 'block';
+          if (span) span.style.display = 'none';   // اخفي "Photo X"
+        } else {
+          img.src = '';
+          img.style.display = 'none';
+          if (span) span.style.display = 'block';  // رجّع النص لو ما في صورة
+        }
       }
     });
   }  // ← إغلاق loadPage
+
 
   // دالة عامة لحفظ صفحة
   async function savePage(pageId, gridSelector, label) {
