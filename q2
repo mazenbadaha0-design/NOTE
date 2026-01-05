@@ -540,7 +540,7 @@ No rules, just moments you want to keep.
 
            
 
-            <!-- JULY · Page 1 (Page 21) -->
+           <!-- JULY · Page 1 (Page 21) -->
 <div class="page">
   <div class="page-content">
 
@@ -551,19 +551,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="july-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview JL1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -572,14 +568,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview JL1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -588,14 +581,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview JL1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -604,14 +594,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview JL1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -620,14 +607,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview JL1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -636,14 +620,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview JL1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -652,14 +633,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview JL1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -668,14 +646,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview JL1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -684,14 +659,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview JL1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -711,7 +683,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- JULY · Page 2 (Page 22) -->
+<!-- JULY · Page 2 (Page 22) -->
 <div class="page">
   <div class="page-content">
 
@@ -722,19 +694,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="july-page-2">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview JL2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -743,14 +711,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview JL2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -759,14 +724,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview JL2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -775,14 +737,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview JL2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -791,14 +750,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview JL2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -807,14 +763,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview JL2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -823,14 +776,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview JL2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -839,14 +789,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview JL2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -855,14 +802,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview JL2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -882,6 +826,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
+           
             <!-- JULY · Page 3 (Page 23) -->
 <div class="page">
   <div class="page-content">
@@ -893,19 +838,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="july-page-3">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview JL3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -914,14 +855,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview JL3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -930,14 +868,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview JL3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -946,14 +881,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview JL3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -962,14 +894,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview JL3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -978,14 +907,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview JL3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -994,14 +920,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview JL3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1010,14 +933,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview JL3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1026,14 +946,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview JL3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Jul3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1053,7 +970,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- AUGUST · Page 1 (Page 24) -->
+
+           <!-- AUGUST · Page 1 (Page 24) -->
 <div class="page">
   <div class="page-content">
 
@@ -1064,19 +982,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="august-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview AG1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1085,14 +999,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview AG1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1101,14 +1012,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview AG1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1117,14 +1025,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview AG1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1133,14 +1038,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview AG1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1149,14 +1051,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview AG1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1165,14 +1064,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview AG1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1181,14 +1077,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview AG1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1197,14 +1090,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview AG1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1224,6 +1114,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
+
             <!-- AUGUST · Page 2 (Page 25) -->
 <div class="page">
   <div class="page-content">
@@ -1235,19 +1126,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="august-page-2">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview AG2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1256,14 +1143,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview AG2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1272,14 +1156,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview AG2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1288,14 +1169,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview AG2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1304,14 +1182,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview AG2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1320,14 +1195,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview AG2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1336,14 +1208,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview AG2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1352,14 +1221,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview AG2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1368,14 +1234,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview AG2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1395,7 +1258,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- AUGUST · Page 3 (Page 26) -->
+          <!-- AUGUST · Page 3 (Page 26) -->
 <div class="page">
   <div class="page-content">
 
@@ -1406,19 +1269,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="august-page-3">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview AG3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1427,14 +1286,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview AG3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1443,14 +1299,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview AG3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1459,14 +1312,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview AG3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1475,14 +1325,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview AG3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1491,14 +1338,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview AG3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1507,14 +1351,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview AG3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1523,14 +1364,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview AG3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1539,14 +1377,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview AG3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Aug3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1566,7 +1401,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- SEPTEMBER · Page 1 (Page 27) -->
+           <!-- SEPTEMBER · Page 1 (Page 27) -->
 <div class="page">
   <div class="page-content">
 
@@ -1577,19 +1412,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="september-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview SP1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1598,14 +1429,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview SP1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1614,14 +1442,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview SP1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1630,14 +1455,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview SP1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1646,14 +1468,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview SP1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1662,14 +1481,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview SP1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1678,14 +1494,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview SP1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1694,14 +1507,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview SP1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1710,14 +1520,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview SP1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1737,7 +1544,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- SEPTEMBER · Page 2 (Page 28) -->
+           <!-- SEPTEMBER · Page 2 (Page 28) -->
 <div class="page">
   <div class="page-content">
 
@@ -1748,19 +1555,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="september-page-2">
 
-      <!-- 9 boxes, نفس التركيب مع تغيير الـ alt prefix لـ SP2 -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview SP2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1769,14 +1572,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview SP2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1785,14 +1585,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview SP2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1801,14 +1598,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview SP2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1817,14 +1611,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview SP2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1833,14 +1624,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview SP2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1849,14 +1637,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview SP2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1865,14 +1650,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview SP2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1881,14 +1663,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview SP2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1908,7 +1687,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- SEPTEMBER · Page 3 (Page 29) -->
+
+           <!-- SEPTEMBER · Page 3 (Page 29) -->
 <div class="page">
   <div class="page-content">
 
@@ -1919,19 +1699,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="september-page-3">
 
-      <!-- 9 boxes, alt prefix: SP3 -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview SP3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1940,14 +1716,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview SP3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1956,14 +1729,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview SP3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1972,14 +1742,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview SP3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -1988,14 +1755,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview SP3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2004,14 +1768,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview SP3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2020,14 +1781,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview SP3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2036,14 +1794,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview SP3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2052,14 +1807,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview SP3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Sep3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2079,7 +1831,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- OCTOBER · Page 1 (Page 30) -->
+
+          <!-- OCTOBER · Page 1 (Page 30) -->
 <div class="page">
   <div class="page-content">
 
@@ -2090,19 +1843,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="october-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview OC1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2111,14 +1860,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview OC1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2127,14 +1873,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview OC1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2143,14 +1886,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview OC1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2159,14 +1899,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview OC1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2175,14 +1912,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview OC1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2191,14 +1925,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview OC1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2207,14 +1938,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview OC1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2223,14 +1951,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview OC1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2250,7 +1975,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- OCTOBER · Page 2 (Page 31) -->
+
+           <!-- OCTOBER · Page 2 (Page 31) -->
 <div class="page">
   <div class="page-content">
 
@@ -2261,19 +1987,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="october-page-2">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview OC2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2282,14 +2004,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview OC2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2298,14 +2017,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview OC2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2314,14 +2030,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview OC2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2330,14 +2043,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview OC2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2346,14 +2056,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview OC2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2362,14 +2069,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview OC2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2378,14 +2082,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview OC2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2394,14 +2095,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview OC2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2421,7 +2119,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- OCTOBER · Page 3 (Page 32) -->
+           <!-- OCTOBER · Page 3 (Page 32) -->
 <div class="page">
   <div class="page-content">
 
@@ -2432,19 +2130,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="october-page-3">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview OC3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2453,14 +2147,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview OC3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2469,14 +2160,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview OC3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2485,14 +2173,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview OC3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2501,14 +2186,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview OC3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2517,14 +2199,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview OC3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2533,14 +2212,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview OC3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2549,14 +2225,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview OC3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2565,14 +2238,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview OC3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Oct3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2592,7 +2262,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- NOVEMBER · Page 1 (Page 33) -->
+
+          <!-- NOVEMBER · Page 1 (Page 33) -->
 <div class="page">
   <div class="page-content">
 
@@ -2603,19 +2274,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="november-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview NV1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2624,14 +2291,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview NV1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2640,14 +2304,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview NV1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2656,14 +2317,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview NV1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2672,14 +2330,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview NV1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2688,14 +2343,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview NV1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2704,14 +2356,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview NV1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2720,14 +2369,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview NV1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2736,14 +2382,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview NV1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2763,7 +2406,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- NOVEMBER · Page 2 (Page 34) -->
+           <!-- NOVEMBER · Page 2 (Page 34) -->
 <div class="page">
   <div class="page-content">
 
@@ -2774,19 +2417,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="november-page-2">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview NV2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2795,14 +2434,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview NV2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2811,14 +2447,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview NV2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2827,14 +2460,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview NV2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2843,14 +2473,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview NV2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2859,14 +2486,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview NV2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2875,14 +2499,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview NV2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2891,14 +2512,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview NV2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2907,14 +2525,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview NV2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2934,7 +2549,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- NOVEMBER · Page 3 (Page 35) -->
+
+          <!-- NOVEMBER · Page 3 (Page 35) -->
 <div class="page">
   <div class="page-content">
 
@@ -2945,19 +2561,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="november-page-3">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview NV3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2966,14 +2578,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview NV3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2982,14 +2591,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview NV3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -2998,14 +2604,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview NV3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3014,14 +2617,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview NV3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3030,14 +2630,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview NV3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3046,14 +2643,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview NV3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3062,14 +2656,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview NV3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3078,14 +2669,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview NV3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Nov3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3105,7 +2693,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- DECEMBER · Page 1 (Page 36) -->
+           <!-- DECEMBER · Page 1 (Page 36) -->
 <div class="page">
   <div class="page-content">
 
@@ -3116,19 +2704,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="december-page-1">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview DC1-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3137,14 +2721,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview DC1-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3153,14 +2734,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview DC1-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3169,14 +2747,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview DC1-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3185,14 +2760,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview DC1-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3201,14 +2773,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview DC1-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3217,14 +2786,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview DC1-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3233,14 +2799,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview DC1-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3249,14 +2812,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview DC1-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec1-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3276,7 +2836,8 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- DECEMBER · Page 2 (Page 37) -->
+
+           <!-- DECEMBER · Page 2 (Page 37) -->
 <div class="page">
   <div class="page-content">
 
@@ -3287,19 +2848,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="december-page-2">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview DC2-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3308,14 +2865,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview DC2-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3324,14 +2878,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview DC2-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3340,14 +2891,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview DC2-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3356,14 +2904,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview DC2-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3372,14 +2917,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview DC2-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3388,14 +2930,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview DC2-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3404,14 +2943,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview DC2-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3420,14 +2956,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview DC2-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec2-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3447,7 +2980,7 @@ No rules, just moments you want to keep.
   </div> <!-- إغلاق page-content -->
 </div> <!-- إغلاق page -->
 
-            <!-- DECEMBER · Page 3 (Page 38) -->
+           <!-- DECEMBER · Page 3 (Page 38) -->
 <div class="page">
   <div class="page-content">
 
@@ -3458,19 +2991,15 @@ No rules, just moments you want to keep.
 
     <div class="photos-grid" id="december-page-3">
 
-      <!-- 9 boxes -->
       <!-- box 1 -->
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 1</span>
-          <img alt="Preview DC3-1">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-1">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3479,14 +3008,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 2</span>
-          <img alt="Preview DC3-2">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-2">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3495,14 +3021,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 3</span>
-          <img alt="Preview DC3-3">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-3">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3511,14 +3034,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 4</span>
-          <img alt="Preview DC3-4">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-4">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3527,14 +3047,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 5</span>
-          <img alt="Preview DC3-5">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-5">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3543,14 +3060,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 6</span>
-          <img alt="Preview DC3-6">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-6">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3559,14 +3073,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 7</span>
-          <img alt="Preview DC3-7">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-7">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3575,14 +3086,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 8</span>
-          <img alt="Preview DC3-8">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-8">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
@@ -3591,14 +3099,11 @@ No rules, just moments you want to keep.
       <div class="photo-box">
         <div class="photo-area">
           <span>Photo 9</span>
-          <img alt="Preview DC3-9">
-          <label class="photo-upload-label">
-            Upload
-            <input class="photo-input" type="file" accept="image/*">
-          </label>
+          <img alt="Preview Dec3-9">
         </div>
         <div class="photo-meta">
           <input type="text" placeholder="Date">
+          <input type="text" class="photo-url-input" placeholder="Image URL (https://...)">
           <textarea placeholder="A few words..."></textarea>
         </div>
       </div>
