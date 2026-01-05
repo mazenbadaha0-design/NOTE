@@ -3257,7 +3257,7 @@ updateButtons();
         // IMAGE PREVIEW FOR ALL PHOTO BOXES
         const photoInputs = document.querySelectorAll('.photo-input');
 
-        photoInputs.forEach(input => {
+               photoInputs.forEach(input => {
             input.addEventListener('change', function () {
                 const file = this.files && this.files[0];
                 if (!file) return;
@@ -3279,9 +3279,6 @@ updateButtons();
             });
         });
 
-    reader.readAsDataURL(file);
-});
-});
 
 // ==== إظهار/إخفاء زر الحفظ حسب الكتابة ==== 
 function setupSaveVisibility(pageId) {
