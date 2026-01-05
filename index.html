@@ -3770,7 +3770,7 @@ No rules, just moments you want to keep.
   const app = initializeApp(firebaseConfig);
   const db  = getFirestore(app);
 
-  // دالة عامة لتحميل صفحة (أي Grid صور)
+   // دالة عامة لتحميل صفحة (أي Grid صور)
   async function loadPage(pageId, gridSelector) {
     const ref  = doc(db, 'pages', pageId);
     const snap = await getDoc(ref);
@@ -3780,49 +3780,48 @@ No rules, just moments you want to keep.
     const grid = document.querySelector(gridSelector);
     if (!grid) return;
 
-   const boxes = grid.querySelectorAll('.photo-box');
-boxes.forEach((box, index) => {
-  const i = index + 1;
+    const boxes = grid.querySelectorAll('.photo-box');
+    boxes.forEach((box, index) => {
+      const i = index + 1;
 
-  // أول input عادي للتاريخ (مش تبع URL)
-  const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
-  const urlInput  = box.querySelector('.photo-url-input');
-  const textArea  = box.querySelector('textarea');
-  const img       = box.querySelector('img');
+      // أول input عادي للتاريخ (مش تبع URL)
+      const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
+      const urlInput  = box.querySelector('.photo-url-input');
+      const textArea  = box.querySelector('textarea');
+      const img       = box.querySelector('img');
 
-  if (dateInput) dateInput.value = data[`photo${i}Date`] || '';
-  if (textArea)  textArea.value  = data[`photo${i}Text`]  || '';
+      if (dateInput) dateInput.value = data[`photo${i}Date`] || '';
+      if (textArea)  textArea.value  = data[`photo${i}Text`]  || '';
 
-  const url = data[`photo${i}Url`] || '';
-  if (urlInput) urlInput.value = url;
+      const url = data[`photo${i}Url`] || '';
+      if (urlInput) urlInput.value = url;
 
-  if (img && url) {
-    img.src = url;
-    img.style.display = 'block';
-  }
-});
-
+      if (img && url) {
+        img.src = url;
+        img.style.display = 'block';
+      }
+    });
+  }  // ← إغلاق loadPage
 
   // دالة عامة لحفظ صفحة
   async function savePage(pageId, gridSelector, label) {
     const grid = document.querySelector(gridSelector);
     if (!grid) return;
 
-   const boxes   = grid.querySelectorAll('.photo-box');
-const payload = {};
+    const boxes   = grid.querySelectorAll('.photo-box');
+    const payload = {};
 
-boxes.forEach((box, index) => {
-  const i         = index + 1;
+    boxes.forEach((box, index) => {
+      const i         = index + 1;
 
-  const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
-  const urlInput  = box.querySelector('.photo-url-input');
-  const textArea  = box.querySelector('textarea');
+      const dateInput = box.querySelector('input[type="text"]:not(.photo-url-input)');
+      const urlInput  = box.querySelector('.photo-url-input');
+      const textArea  = box.querySelector('textarea');
 
-  payload[`photo${i}Date`] = dateInput?.value || '';
-  payload[`photo${i}Text`] = textArea?.value  || '';
-  payload[`photo${i}Url`]  = urlInput?.value  || '';
-});
-
+      payload[`photo${i}Date`] = dateInput?.value || '';
+      payload[`photo${i}Text`] = textArea?.value  || '';
+      payload[`photo${i}Url`]  = urlInput?.value  || '';
+    });
 
     await setDoc(doc(db, 'pages', pageId), payload, { merge: true });
     alert(`تم حفظ ${label} ✅`);
